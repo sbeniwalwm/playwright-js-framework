@@ -47,8 +47,8 @@ npm run test:headed
 npm run test:debug
 ```
 
-
+---
 # Author
 Sudhirr H Beniwal
 GitHub: @sbeniwalwm
-
+---
