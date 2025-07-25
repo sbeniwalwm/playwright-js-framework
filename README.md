@@ -1,6 +1,6 @@
 # 🎭 Playwright JS Testing Framework
 
-A modular end-to-end testing framework built with [Playwright](https://playwright.dev) and JavaScript, following Page Object Model (POM) best practices. Supports headless/headed runs, reporters, and CI integration.
+A modular end-to-end testing framework built with [Playwright](https://playwright.dev) and JavaScript, following Page Object Model (POM) best practices. Supports headless/headed runs, reporters.
 
 ---
 
