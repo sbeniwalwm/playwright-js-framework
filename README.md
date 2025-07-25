@@ -16,19 +16,6 @@ A modular end-to-end testing framework built with [Playwright](https://playwrigh
 
 ---
 
-## 📁 Project Structure
-
-playwright-js-framework/
-├── pages/ # Page Object Models
-├── tests/ # Test specs
-├── utils/ # Helpers/utilities
-├── .vscode/ # VS Code debug config
-├── playwright.config.js
-├── package.json
-└── README.md
-
----
-
 ## 🚀 Getting Started
 
 ### 1. Clone the Repository
